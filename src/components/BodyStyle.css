@@ -1,0 +1,16 @@
+.grid-image{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.main-image{
+    height: 400px;
+    width: 500px;
+}
+main{
+    padding: 30px;
+}
+main h1{
+    font-family: Inter;
+    padding: 10px 0;
+}

@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    
+}
+.nav-items{
+    padding: 10px;
+}
+.nav-items h3{   
+    font-weight: 400;
+    color: white;
+}
+.App-Nav{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+   
+}
+.App-Nav h3{
+    color: purple;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.App-header{
+    align-items: center;
+    padding: 30px 25px;
+    background-color: black;
+    box-shadow:  0 4px 2px -2px rgba(0, 0, 0, 0.1);
+}
+.App-logo {
+    width: 50px;
+    pointer-events: none;
+}
+  
+  
